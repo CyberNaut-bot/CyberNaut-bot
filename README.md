@@ -16,5 +16,3 @@
 </details>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberNaut-bot&theme=radical)
-
