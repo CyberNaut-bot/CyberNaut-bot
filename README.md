@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web 3.0
 - 💬 Ask me about Web 3.0 or any tech related stuff
 
-![gitartwork](gitartwork.svg)
+
 
 <details open="">
   <summary><b>📈 GitHub Stats</b></summary>
