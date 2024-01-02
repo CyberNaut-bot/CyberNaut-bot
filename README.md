@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Suchita Mullick</h1>
 <h3 align="center">A passionate self-taught developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/5a88699a6918af4a91282b409caf9896/tumblr_p82vq7bGVf1tf04pfo1_640.gifv">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/51/8a/fb/518afb1d1cdc07eb7d2b1729f03fe91e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybernaut-bot&label=Profile%20views&color=0e75b6&style=flat" alt="cybernaut-bot" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cybernaut-bot" alt="cybernaut-bot" /></a> </p>
