@@ -1,5 +1,5 @@
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-[![MasterHead](https://i.pinimg.com/474x/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.jpg)
+ [![MasterHead](https://i.pinimg.com/474x/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.jpg)]()
 
 <h1 align="center">Hi 👋, I'm Suchita Mullick</h1>
 <h3 align="center">A passionate self-taught developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</h3>
