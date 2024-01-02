@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://your-profile-link">
-    <img src="https://i.pinimg.com/474x/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.jpg" alt="MasterHead">
+    <img src="https://i.pinimg.com/474x/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.jpg" alt="MasterHead" width="600">
   </a>
 </p>
 <!-- [![MasterHead](https://i.pinimg.com/474x/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.jpg)] -->
