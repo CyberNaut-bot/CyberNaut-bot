@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+
  [![MasterHead](https://i.pinimg.com/474x/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.jpg)]
 
 <h1 align="center">Hi 👋, I'm Suchita Mullick</h1>
